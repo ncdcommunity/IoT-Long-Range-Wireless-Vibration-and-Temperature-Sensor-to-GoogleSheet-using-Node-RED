@@ -194,7 +194,7 @@ You can also attach debug node to check the output the http node.
  
  - **Click on Deploy button to get the out on the googlesheet.**
  
-  ![alt tag]()
+  ![alt tag](https://github.com/rjrajbir/Sending-Wireless-Vibration-and-Temperature-data-to-Googlesheets-using-Node-RED/blob/master/final_flow.JPG)
   
   # OUTPUT
   Now to go google spreadsheet and you'll see values are coming.
